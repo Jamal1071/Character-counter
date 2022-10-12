@@ -1,0 +1,15 @@
+/* 
+*
+* section.css
+* author - Jamal
+* date - 11 octobar 2022
+*/
+
+.wrapper {
+    display: grid;
+    place-items: center;
+    margin: 250px auto auto auto; 
+}
+textarea {
+    width: 70%;
+}
